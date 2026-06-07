@@ -4,7 +4,7 @@
 	"values": [
 		{
 			"key": "url",
-			"value": "https://viacep.com.br",
+			"value": "https://viacep.com.br/ws",
 			"type": "default",
 			"enabled": true
 		},
@@ -29,6 +29,6 @@
 	],
 	"color": null,
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2026-06-07T12:39:33.176Z",
+	"_postman_exported_at": "2026-06-07T13:10:01.736Z",
 	"_postman_exported_using": "Postman/12.13.6"
 }
