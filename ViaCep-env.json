@@ -1,0 +1,34 @@
+{
+	"id": "4c149755-c4bb-4e2b-9286-3b6e8aef1e4b",
+	"name": "Via Cep",
+	"values": [
+		{
+			"key": "url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "FirstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "LastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FullName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-06-07T12:39:33.176Z",
+	"_postman_exported_using": "Postman/12.13.6"
+}
