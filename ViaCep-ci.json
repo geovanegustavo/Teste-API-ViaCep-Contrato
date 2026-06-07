@@ -120,7 +120,7 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "{{url}}/{{ZipCode}}/json/",
+          "raw": "{{url}}/{{ZipCode}}/json",
           "host": [
             "{{url}}"
           ],
