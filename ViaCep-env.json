@@ -4,7 +4,7 @@
 	"values": [
 		{
 			"key": "url",
-			"value": "",
+			"value": "https://viacep.com.br",
 			"type": "default",
 			"enabled": true
 		},
